@@ -1,5 +1,5 @@
 # team-social
 
-[Angel's Website](https://staticweightycharacter--ascott8411.repl.co/)
+[About Page](https://staticweightycharacter--ascott8411.repl.co/)
 
-[Mykah's Website](https://police--morutkin.repl.co/)
+[Police Brutality Page](https://police--morutkin.repl.co/)
